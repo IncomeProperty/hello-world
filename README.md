@@ -1,2 +1,3 @@
 # hello-world
 income property data, analysis, valuation and marketing
+I am a new coder and have a desire to automate income property data collection, analysis, valuation, marketing and deal-making. I believe most real estate collateral work where property operating data is entered and recorded is done in microsoft or .net. I did some forensic work on securitized residential mortgage loans within bulk packages sold in the stock market and insured by the quasi government entities such as FNMA FMAC FDIC from 2004 through 2010 and entered any observations and opinions in DOS for lawsuit settlement purposes. 
